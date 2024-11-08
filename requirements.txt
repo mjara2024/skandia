@@ -1,0 +1,8 @@
+certifi==2024.8.30
+charset-normalizer==3.4.0
+gunicorn==23.0.0
+idna==3.10
+jsonpickle==3.4.2
+packaging==24.2
+requests==2.32.3
+urllib3==2.2.3
